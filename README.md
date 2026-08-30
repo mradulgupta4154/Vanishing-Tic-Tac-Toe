@@ -45,6 +45,7 @@ vanishing-tic-tac-toe/
 
 - [ ] 🌐 Two-player online mode
 - [ ] 📱 Mobile-friendly layout
+- [ ]  Harder than normal tic-tac-toe
 
 ## 🤝 Contributing
 
